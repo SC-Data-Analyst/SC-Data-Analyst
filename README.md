@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm Sandra Castaneda, a passionate Data Analyst with 4 years of experience in healthcare. I specialize in utilizing data to extract meaningful insights that support decision-making, improve patient outcomes, enhance operational efficiency, and drive strategic initiatives. 
+Hello! I'm [putnamehere], a passionate Data Analyst with 4 years of experience in healthcare. I specialize in utilizing data to extract meaningful insights that support decision-making, improve patient outcomes, enhance operational efficiency, and drive strategic initiatives. 
 
 ## Skills and Expertise
 
